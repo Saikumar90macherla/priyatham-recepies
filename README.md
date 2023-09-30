@@ -1,1 +1,1 @@
-# priyatham-recepies
+# priyatham-procedure
